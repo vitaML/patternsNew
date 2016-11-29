@@ -1,0 +1,6 @@
+rootProject.name = 'patterns'
+include 'singleton'
+include 'factory'
+include 'strategy'
+include 'decorator'
+
